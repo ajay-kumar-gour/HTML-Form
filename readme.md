@@ -17,9 +17,10 @@ This project provides a simple implementation of a login and register form using
 - Returning users can log in with their registered email and password.
 
 ## Screenshots
-- Login Page
+
 ![image](https://github.com/ajay-kumar-gour/HTML-Form/assets/153515139/1b6c2a7c-8d59-46f3-9135-0d694676798a)
 
+![image](https://github.com/ajay-kumar-gour/HTML-Form/assets/153515139/3acee0c8-3931-4b75-af40-2e4e685c3ebf)
 
 ## Technologies Used
 - HTML
